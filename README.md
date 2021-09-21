@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BenceGattyan
+- 👀 I’m interested in Programming duh...
+- 🌱 I’m currently learning Programming
+- 💞️ I’m looking to collaborate on Programming
+- 📫 How to reach me: don't
