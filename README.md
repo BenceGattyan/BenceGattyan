@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @BenceGattyan
-- 👀 I’m interested in Programming duh...
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Programming
-- 📫 How to reach me: don't
+- 👀 I’m interested in Machine Learning, AI, Data Analysis, Game Development and just programming in general
+- 🌱 I’m currently learning Machine Learning/Data Analysis/Software Development
+- 📫 How to reach me: bencegattyan@gmail.com
